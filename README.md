@@ -200,7 +200,6 @@ UI/UX Design Concept
 
 
 
-\*\*Note:\*\* This repository showcases the design screens. It does not claim that the website's functionality has been implemented.
 
 
 
